@@ -16,7 +16,7 @@ I am looking for feedback on the design. As I do not feel even though it works w
 It uses the standard 6x3 magnets as the klicky in all the normal locations. But uses a miniscule 2x3 magnet in the stalk. I know it's yet another magnet size. But it was the only way to keep the same foot print and keep it as a drop-in replacement.
 
 # Priniting 
-There is only one thing. I have found so far is that the wire holes have to be so close to the edge. You need to turn on overlapping perimeter in susperslicing to keep the top together. 
+There is only one thing. I have found so far is that the wire holes have to be so close to the edge. You need to turn on overlapping perimeter in susperslicer to keep the top together. 
 
 ![Overlapping](https://github.com/majarspeed/Unklicky/raw/main/pictures/Overlapping.jpg "Overlapping")
 ![Printpreview](https://github.com/majarspeed/Unklicky/raw/main/pictures/printpreview.jpg "Preview")
@@ -30,6 +30,4 @@ Then I have been folding it back to the main wire making a single loop then snip
 
 Then you can run the wire up to either magnet on the front. A second wire will be run from the front screw to the opposite magnet. 
 
-Ensure the magnet on the stalk is set to repel from the rear single magnet on top. Ensure that the stalk slides in and out easily including with the screw installed. And that the screw is through the stalk but does not hit the rear wall I believe I am using a 12 mm screw. 
-
-
+Ensure the magnet on the stalk is set to repel from the rear single magnet on top. Ensure that the stalk slides in and out easily including with the screw installed. And that the screw is through the stalk but does not hit the rear wall I believe I am using a 12 mm screw.
