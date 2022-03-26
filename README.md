@@ -3,8 +3,8 @@ Drop in magnet based klicky probe
 
 
 ![Top](https://github.com/majarspeed/Unklicky/raw/main/pictures/topview.png "Top")
-![Botton](https://github.com/majarspeed/Unklicky/raw/main/pictures/bottomview.png "Bottom")
-![Probe](https://github.com/majarspeed/Unklicky/raw/main/pictures/probe.jpg "Probe")
+![Botton](https://github.com/majarspeed/Unklicky/raw/main/pictures/Bottomview.png "Bottom")
+![Probe](https://github.com/majarspeed/Unklicky/raw/main/pictures/Probe.jpg "Probe")
 
 
 First this is all based on an additional option to be used with the Klicky mod. This is not a replacement just an alternative to test the longevity of a mag based spring in a probe. 
