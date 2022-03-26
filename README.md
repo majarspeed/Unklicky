@@ -13,7 +13,7 @@ https://github.com/jlas1/Klicky-Probe
 
 I am looking for feedback on the design. As I do not feel even though it works well for me a test of 1 is sufficient. 
 
-It uses (2) magnet sizes. The standard 6x3 magnets as the klicky on the main body in all the normal locations. But uses a miniscule 2x3 magnet in the stalk. I know it's yet another magnet size. But it was the only way to keep the same foot print and keep it as a drop-in replacement.
+It uses (2) magnet sizes. The standard 6x3 magnets as the klicky on the main body in all the normal locations. But uses a miniscule 3X2 magnet in the stalk. I know it's yet another magnet size. But it was the only way to keep the same foot print and keep it as a drop-in replacement.
 
 # Printing 
 There is only one thing. I have found so far is that the wire holes have to be so close to the edge. You need to turn on overlapping perimeter in susperslicer to keep the top together. 
