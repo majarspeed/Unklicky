@@ -15,7 +15,7 @@ I am looking for feedback on the design. As I do not feel even though it works w
 
 It uses the standard 6x3 magnets as the klicky in all the normal locations. But uses a miniscule 2x3 magnet in the stalk. I know it's yet another magnet size. But it was the only way to keep the same foot print and keep it as a drop-in replacement.
 
-# Priniting 
+# Printing 
 There is only one thing. I have found so far is that the wire holes have to be so close to the edge. You need to turn on overlapping perimeter in susperslicer to keep the top together. 
 
 ![Overlapping](https://github.com/majarspeed/Unklicky/raw/main/pictures/Overlapping.jpg "Overlapping")
