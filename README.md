@@ -15,9 +15,11 @@ I am looking for feedback on the design. As I do not feel even though it works w
 
 It uses (2) magnet sizes. The standard 6x3 magnets as the klicky on the main body in all the normal locations. But uses a miniscule 3X2 magnet in the stalk. I know it's yet another magnet size. But it was the only way to keep the same foot print and keep it as a drop-in replacement.
 
-Full kit Thanks to DFH
-[Full kit](https://deepfriedhero.in/products/unklicky-full-kit-by-dustinspeed?_pos=1&_psq=unkl&_ss=e&_v=1.0&aff=8 "Full Unklicky Kit")
-[Sidegrade kit](https://deepfriedhero.in/products/unklicky-sidegrade-kit-by-dustinspeed?_pos=2&_sid=d0a66cc6e&_ss=r&aff=8 "Sidegrade Unklicky Kit")
+Parts kits thanks to DFH
+
+[Buy full kit here](https://deepfriedhero.in/products/unklicky-full-kit-by-dustinspeed?_pos=1&_psq=unkl&_ss=e&_v=1.0&aff=8 "Full Unklicky Kit")
+
+[Buy sidegrade kit here](https://deepfriedhero.in/products/unklicky-sidegrade-kit-by-dustinspeed?_pos=2&_sid=d0a66cc6e&_ss=r&aff=8 "Sidegrade Unklicky Kit")
 
 # Printing 
 There is only one thing. I have found so far is that the wire holes have to be so close to the edge. You need to turn on overlapping perimeter in susperslicer to keep the top together. 
