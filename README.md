@@ -1,11 +1,3 @@
-# Unklicky
-Drop in magnet based klicky probe
-
-
-![Top](https://github.com/majarspeed/Unklicky/raw/main/pictures/topview.png "Top")
-![Botton](https://github.com/majarspeed/Unklicky/raw/main/pictures/Bottomview.png "Bottom")
-
-
 # Update 3/30/22
 added a alpha release under BFP
 This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testing. 
@@ -15,8 +7,12 @@ With the D-shaped shaft make sure there is no elephant foot to interfere wiht th
 we have found for the wire to to the PIN/stalk it does seem to work better with a bare wire. 
 Please feel free to reach out if you have any issues. 
 
+# Unklicky
+Drop in magnet based klicky probe
 
 
+![Top](https://github.com/majarspeed/Unklicky/raw/main/pictures/topview.png "Top")
+![Botton](https://github.com/majarspeed/Unklicky/raw/main/pictures/Bottomview.png "Bottom")
 
 
 First this is all based on an additional option to be used with the Klicky mod. This is not a replacement just an alternative to test the longevity of a mag based spring in a probe. This is actually version 2. I have made a previous version that was normally open. While it worked. It would not allow all the wonderful safety based work that has been done on the klicky to work as intended. 
