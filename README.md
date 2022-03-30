@@ -6,8 +6,16 @@ Drop in magnet based klicky probe
 ![Botton](https://github.com/majarspeed/Unklicky/raw/main/pictures/Bottomview.png "Bottom")
 
 
-#update added a beta release under BFP
+# Update 3/30/22
+added a alpha release under BFP
 This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testing. 
+![bfp](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFP.jpg "BFP")
+
+With the D-shaped shaft make sure there is no elephant foot to interfere wiht the motion. 
+we have found for the wire to to the PIN/stalk it does seem to work better with a bare wire. 
+Please feel free to reach out if you have any issues. 
+
+
 
 
 
