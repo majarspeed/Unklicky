@@ -6,6 +6,11 @@ Drop in magnet based klicky probe
 ![Botton](https://github.com/majarspeed/Unklicky/raw/main/pictures/Bottomview.png "Bottom")
 
 
+#update added a beta release under BFP
+This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testing. 
+
+
+
 First this is all based on an additional option to be used with the Klicky mod. This is not a replacement just an alternative to test the longevity of a mag based spring in a probe. This is actually version 2. I have made a previous version that was normally open. While it worked. It would not allow all the wonderful safety based work that has been done on the klicky to work as intended. 
 
 Please support his project and all the hard work he has done and is continuing to do. 
