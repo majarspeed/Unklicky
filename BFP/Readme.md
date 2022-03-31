@@ -1,3 +1,8 @@
+# build notes. Updated live currently
+1. The edge that is on the plate during printing for the d shaped pin. Ensure that any elephant foot on the inside of the slide is cleaned out. 
+2. D-shaped pin the mag should just sit down in the slot it does not need to be pressed. 
+If it is loose you can use a drop of glue to keep it on top. There is no need for the magnet to make contact with the wire.
+
 This is a unklicky mod. That uses the 6x3 magnets.
 Thanks to all the work by Josars form the Klicky project.
 With his help we iterated this thing mutiple times very fast.
@@ -18,10 +23,6 @@ With the D-shaped shaft make sure there is no elephant foot to interfere wiht th
 we have found for the wire to to the PIN/stalk it does seem to work better with a bare wire. 
 Please feel free to reach out if you have any issues. 
 
-# build notes. Updated live currently
-1. The edge that is on the plated for the d shaped pin. Ensure that any elephant foot on the inside of the slide is cleaned out. 
-2. D-shaped pin the mag should just sit down in the slot it does not need to be pressed. 
-If it is loose you can use a drop of glue to keep it on top. There is no need for the magnet to make contact with the wire.
 
 
 
