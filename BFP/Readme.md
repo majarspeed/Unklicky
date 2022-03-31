@@ -1,6 +1,8 @@
-# build notes. Updated live currently
+# build notes/minor changes. Updated live currently
 1. The edge that is on the plate during printing for the d shaped pin. Ensure that any elephant foot on the inside of the slide is cleaned out. 
 2. D-shaped pin the mag should just sit down in the slot it does not need to be pressed. 
+3. Added a internal chamfer to allow the wiring to be installed easier. No funtional diffrence just allows wires to slide for installation easier. 
+
 If it is loose you can use a drop of glue to keep it on top. There is no need for the magnet to make contact with the wire.
 
 This is a unklicky mod. That uses the 6x3 magnets.
