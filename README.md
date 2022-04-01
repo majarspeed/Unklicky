@@ -20,9 +20,25 @@ First this is all based on an additional option to be used with the Klicky mod. 
 Please support his project and all the hard work he has done and is continuing to do. 
 https://github.com/jlas1/Klicky-Probe
 
+Also keep in mind all this is based off the orginal work done over at Annex Enginerring the excellent work that was done with the quickdraw probe. 
+Thanks for calling this out. I did know the orginal was based on thier work but it slipped my mind. They have an excellent group that does a lot of good things for the community. Support them in there work and thanks for keeping me honest here guys. 
+https://github.com/Annex-Engineering/Quickdraw_Probe
+
 I am looking for feedback on the design. As I do not feel even though it works well for me a test of 1 is sufficient. 
 
 It uses (2) magnet sizes. The standard 6x3 magnets as the klicky on the main body in all the normal locations. But uses a miniscule 3X2 magnet in the stalk. I know it's yet another magnet size. But it was the only way to keep the same foot print and keep it as a drop-in replacement.
+
+# But how does it work!! 
+There has been a lot of questions around this. So hopefully I can shed some light. 
+The Probe uses an internal magnet on top of the pin/stalk. This magnet is not part of the circuit it is only used to provide a spring for the the probe. 
+
+The real part of the probing is actually done by the screw. 
+There is a contact point between the screw and the wire. This allows the unklicky to be normally closed. 
+![Contact](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png "Contact")
+![Left](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPIL.png "Left")
+
+
+
 
 Parts kits thanks to DFH
 
@@ -36,13 +52,74 @@ There is only one thing. I have found so far is that the wire holes have to be s
 ![Overlapping](https://github.com/majarspeed/Unklicky/raw/main/pictures/Overlapping.jpg "Overlapping")
 ![Printpreview](https://github.com/majarspeed/Unklicky/raw/main/pictures/printpreview.jpg "Preview")
 
-Wiring the stalk is not hard but is not super intuitive. Strip more wire than you will need. Feed the wire down with the magnet hole turned to the right. Then back up the other side. 
-![Wiring](https://github.com/majarspeed/Unklicky/raw/main/pictures/Stalk.jpg "Wiring")
 
-Then I have been folding it back to the main wire making a single loop then snipping off the excess. 
+# The build 
 
-![Wiring](https://github.com/majarspeed/Unklicky/raw/main/pictures/wired.jpg "Wiring")
+Gather Up all the materials. Test fit the pin ensure it is not binding or to tight. it should slide easily in and out without binding. 
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%201.jpg "Build")
 
-Then you can run the wire up to either magnet on the front. A second wire will be run from the front screw to the opposite magnet. 
 
-Ensure the magnet on the stalk is set to repel from the rear single magnet on top. Ensure that the stalk slides in and out easily including with the screw installed. And that the screw is through the stalk but does not hit the rear wall I believe I am using a 12 mm screw.
+
+## The Pin
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%202.jpg "Build")
+
+Strip a length of wire and thread through the hole in the pin. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%203.jpg "Build")
+
+Flip the wire over towards the opposite side of the pin. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%204.jpg "Build")
+
+You want a single twist of wire. NOT TO MUCH this will cause issues if you leave to much here. Trim the excess. 
+If you have issues with the fit you can strip the wire completely bare. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%205.jpg "Build")
+
+Insert the magnet in the top of the pin. THis does not need to be crunched down. It is not designed to be tight. 
+If you have issues with it slipping use a drop of glue.
+There does not need to be contact between the wire and the magnet. But contact will not hurt it either. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%206.jpg "Build")
+
+Run the wire up the hole a tiny bend at the end may be useful. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%207.jpg "Build")
+
+Pull the wire as you continue to insert it until it is fully seated.
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%208.jpg "Build")
+
+Finally strip the end if it is not bare and lay under the magnet and insert your magnet. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%209.jpg "Build")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
