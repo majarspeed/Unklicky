@@ -22,10 +22,6 @@ Also keep in mind all this is based off the orginal work done over at Annex Engi
 Thanks for calling this out. I did know the orginal was based on thier work but it slipped my mind. They have an excellent group that does a lot of good things for the community. Support them in there work and thanks for keeping me honest here guys. 
 https://github.com/Annex-Engineering/Quickdraw_Probe
 
-I am looking for feedback on the design. As I do not feel even though it works well for me a test of 1 is sufficient. 
-
-It uses (2) magnet sizes. The standard 6x3 magnets as the klicky on the main body in all the normal locations. But uses a miniscule 3X2 magnet in the stalk. I know it's yet another magnet size. But it was the only way to keep the same foot print and keep it as a drop-in replacement.
-
 # But how does it work!! 
 There has been a lot of questions around this. So hopefully I can shed some light. 
 The Probe uses an internal magnet on top of the pin/stalk. This magnet is not part of the circuit it is only used to provide a spring for the the probe. 
