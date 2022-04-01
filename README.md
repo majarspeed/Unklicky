@@ -77,7 +77,8 @@ If you have issues with the fit you can strip the wire completely bare.
 
 ![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%205.jpg "Build")
 
-Insert the magnet in the top of the pin. THis does not need to be crunched down. It is not designed to be tight. 
+Insert the magnet in the top of the pin. Ensure that the magnet will be repelled buy the magnet on top. 
+This does not need to be crunched down. It is not designed to be tight. 
 If you have issues with it slipping use a drop of glue.
 There does not need to be contact between the wire and the magnet. But contact will not hurt it either. 
 
@@ -95,6 +96,31 @@ Finally strip the end if it is not bare and lay under the magnet and insert your
 
 ![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%209.jpg "Build")
 
+# Contact Screw
+Strip a piece of wire and thread from the top down and out the front of the body. 
+This piece of wire cannot be bare. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%2010.jpg "Build")
+
+slot the wire into the screw hole on the front of the body.
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%2011.jpg "Build")
+
+start the srew into the hole. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%2012.jpg "Build")
+
+cut and strip the wire on the top to sit under the second magnet on top. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%2013.jpg "Build")
+
+Press the magnet down on top. And finish screwing the contact screw all the way in. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%2014.jpg "Build")
+
+Press in the rear magnet and enjoy your self built switch. 
+
+![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%2015.jpg "Build")
 
 
 
