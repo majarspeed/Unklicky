@@ -13,10 +13,11 @@ Drop in magnet based klicky probe
 ![Top](https://github.com/majarspeed/Unklicky/raw/main/pictures/topview.png "Top")
 ![Botton](https://github.com/majarspeed/Unklicky/raw/main/pictures/Bottomview.png "Bottom")
 
-First this is all based on an additional option to be used with the Klicky mod. This is not a replacement just an alternative to test the longevity of a mag based spring in a probe. This is actually version 2. I have made a previous version that was normally open. While it worked. It would not allow all the wonderful safety based work that has been done on the klicky to work as intended. 
 
+Thanks go to JosAR again for all the hard work and testing.
 Please support his project and all the hard work he has done and is continuing to do. 
 https://github.com/jlas1/Klicky-Probe
+
 Also keep in mind all this is based off the orginal work done over at Annex Enginerring the excellent work that was done with the quickdraw probe. 
 Thanks for calling this out. I did know the orginal was based on thier work but it slipped my mind. They have an excellent group that does a lot of good things for the community. Support them in there work and thanks for keeping me honest here guys. 
 https://github.com/Annex-Engineering/Quickdraw_Probe
