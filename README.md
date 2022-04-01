@@ -18,7 +18,7 @@ Thanks go to JosAR again for all the hard work and testing.
 Please support his project and all the hard work he has done and is continuing to do. 
 https://github.com/jlas1/Klicky-Probe
 
-Also keep in mind all this is based off the orginal work done over at Annex Enginerring the excellent work that was done with the quickdraw probe. 
+Also keep in mind all the klicky is based off the orginal work done over at Annex Enginerring the excellent work that was done with the quickdraw probe. 
 Thanks for calling this out. I did know the orginal was based on thier work but it slipped my mind. They have an excellent group that does a lot of good things for the community. Support them in there work and thanks for keeping me honest here guys. 
 https://github.com/Annex-Engineering/Quickdraw_Probe
 
