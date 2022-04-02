@@ -15,16 +15,18 @@ Strip a length of wire and thread through the hole in the pin.
 
 ![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%203.jpg "Build")
 
-Flip the wire over towards the opposite side of the pin. 
+Flip the wire over towards the opposite side of the pin, the back of the D shape must be facing the back of the probe when assembled.
 
 ![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%204.jpg "Build")
 
 You want a single twist of wire. NOT TO MUCH this will cause issues if you leave to much here. Trim the excess. 
-If you have issues with the fit you can strip the wire completely bare. 
+Twist the two wires well , so that they are straight on the bottom part that will touch the screw.
+
+If you have issues with the fit you can strip the wire completely bare (it slides much better that way). 
 
 ![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%205.jpg "Build")
 
-Insert the magnet in the top of the pin. Ensure that the magnet will be repelled buy the magnet on top. 
+Insert the magnet in the top of the pin. Ensure that the magnet will be repelled buy the magnet on top, use the image below as reference.
 This does not need to be crunched down. It is not designed to be tight. 
 If you have issues with it slipping use a drop of glue.
 There does not need to be contact between the wire and the magnet. But contact will not hurt it either. 
@@ -68,5 +70,4 @@ Press the magnet down on top. And finish screwing the contact screw all the way 
 Press in the rear magnet and enjoy your self built switch. 
 
 ![Build](https://github.com/majarspeed/Unklicky/raw/main/pictures/Step%2015.jpg "Build")
-
 
