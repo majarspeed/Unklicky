@@ -40,11 +40,6 @@ Parts kits thanks to DFH
 
 [Buy sidegrade kit here](https://deepfriedhero.in/products/unklicky-sidegrade-kit-by-dustinspeed?_pos=2&_sid=d0a66cc6e&_ss=r&aff=8 "Sidegrade Unklicky Kit")
 
-# Printing 
-There is only one thing. I have found so far is that the wire holes have to be so close to the edge. You need to turn on overlapping perimeter in susperslicer to keep the top together. 
-
-![Overlapping](https://github.com/majarspeed/Unklicky/raw/main/pictures/Overlapping.jpg "Overlapping")
-![Printpreview](https://github.com/majarspeed/Unklicky/raw/main/pictures/printpreview.jpg "Preview")
 
 
 
