@@ -1,14 +1,5 @@
-# Update 3/30/22
-added a alpha release under BFP
-This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testing. 
-![bfp](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFP.jpg "BFP")
-
-With the D-shaped shaft make sure there is no elephant foot to interfere wiht the motion. 
-we have found for the wire to to the PIN/stalk it does seem to work better with a bare wire. 
-Please feel free to reach out if you have any issues. 
-
 # Unklicky
-Drop in magnet based klicky probe
+Drop in magnet based klicky probe In the orginal and now a 6x3 magnet variant called the BFP. 
 
 ![Top](https://github.com/majarspeed/Unklicky/raw/main/pictures/topview.png "Top")
 ![Botton](https://github.com/majarspeed/Unklicky/raw/main/pictures/Bottomview.png "Bottom")
@@ -21,6 +12,15 @@ https://github.com/jlas1/Klicky-Probe
 Also keep in mind all the klicky is based off the orginal work done over at Annex Enginerring the excellent work that was done with the quickdraw probe. 
 Thanks for calling this out. I did know the orginal was based on thier work but it slipped my mind. They have an excellent group that does a lot of good things for the community. Support them in there work and thanks for keeping me honest here guys. 
 https://github.com/Annex-Engineering/Quickdraw_Probe
+
+added a alpha release under BFP
+This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testing. 
+![bfp](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFP.jpg "BFP")
+
+With the D-shaped shaft make sure there is no elephant foot to interfere wiht the motion. 
+we have found for the wire to to the PIN/stalk it does seem to work better with a bare wire. 
+Please feel free to reach out if you have any issues. 
+
 
 # But how does it work!! 
 There has been a lot of questions around this. So hopefully I can shed some light. 
