@@ -2,6 +2,8 @@
 1. The edge that is on the plate during printing for the d shaped pin. Ensure that any elephant foot on the inside of the slide is cleaned out. 
 2. D-shaped pin the mag should just sit down in the slot it does not need to be pressed. 
 3. Added a internal chamfer to allow the wiring to be installed easier. No funtional diffrence just allows wires to slide for installation easier. 
+4. Adjusted some dimensions for ease of assembly. 
+5. Added the ablity to use a screw on the rear of the BFP. This can be used if using stronger magnet and you are getting interference from each other. We have seen at least one case of this with the use of N52 magnets. 
 
 If it is loose you can use a drop of glue to keep it on top. There is no need for the magnet to make contact with the wire.
 
