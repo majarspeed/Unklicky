@@ -35,6 +35,7 @@ There is a contact point between the screw and the wire. This allows the unklick
 
 measurements were at 240 hotend, 95 bed, 55 chamber. 
 10k probe with 5 touches each. 
+In the sense distance you can see the heatup at the start. And the consistency once up to temp.
 ![Deviation](https://github.com/majarspeed/Unklicky/raw/main/pictures/std%20deviation.png "Deviation")
 ![sense distance](https://github.com/majarspeed/Unklicky/raw/main/pictures/Probe%20sense%20distance.png "sense distance")
 
