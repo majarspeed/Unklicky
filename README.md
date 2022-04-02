@@ -31,6 +31,13 @@ There is a contact point between the screw and the wire. This allows the unklick
 ![Contact](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPContact.png "Contact")
 ![Left](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFPIL.png "Left")
 
+# But how well does it work!! 
+
+measurements were at 240 hotend, 95 bed, 55 chamber. 
+10k probe with 5 touches each. 
+![Deviation](https://github.com/majarspeed/Unklicky/raw/main/pictures/std%20deviation.png "Deviation")
+![sense distance](https://github.com/majarspeed/Unklicky/raw/main/pictures/Probe%20sense%20distance.png "sense distance")
+
 
 
 
