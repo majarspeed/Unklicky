@@ -14,6 +14,19 @@ Klicky is also based on [Euclid](https://www.euclidprobe.com/).
 Thanks go to JosAR again for all the hard work and testing, please support his project and all the hard work he has done and is continuing to do. 
 https://github.com/jlas1/Klicky-Probe
 
+# Unklicky Newest version 2
+New version of the 3x2 probe is now available. This includes some QOL improvements. But does not really improve on any performance in any significant way. 
+Added a screw mount on the rear so a magnet or screw can be used. May be useful if you have especially strong magnets.
+Added a shaped pin that is easier to wire. And only inserts in one direction. 
+New pin can be printed flat on the plate to make it easier to print and align the layer lines for smoother operation. 
+V1 will be retained for now as well.
+
+
+![V2 3x2](https://github.com/majarspeed/Unklicky/raw/main/pictures/3x2NP.jpg "V2 3x2")
+![V2 3x2](https://github.com/majarspeed/Unklicky/raw/main/pictures/3x2NP2.jpg "V2 3x2")
+![V2 3x2](https://github.com/majarspeed/Unklicky/raw/main/pictures/3x2NP3.jpg "V2 3x2")
+
+# BFP newest Version 6
 added a alpha release under BFP
 This is a 6x3 unklicky probe, it's a mod developed by me and JosAr.
 ![bfp](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFP.jpg "BFP")
