@@ -22,8 +22,6 @@ New pin can be printed flat on the plate to make it easier to print and align th
 V1 will be retained for now as well.
 
 
-![V2 3x2](https://github.com/majarspeed/Unklicky/raw/main/pictures/3x2NP.jpg "V2 3x2")
-![V2 3x2](https://github.com/majarspeed/Unklicky/raw/main/pictures/3x2NP2.jpg "V2 3x2")
 ![V2 3x2](https://github.com/majarspeed/Unklicky/raw/main/pictures/3x2NP3.jpg "V2 3x2")
 
 # BFP newest Version 6
