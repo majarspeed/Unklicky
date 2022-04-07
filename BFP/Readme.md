@@ -5,6 +5,7 @@
 4. Adjusted some dimensions for ease of assembly. 
 5. Added the ability to use a screw on the rear of the BFP. This can be used if using stronger magnet and you are getting interference from each other. We have seen at least one case of this with the use of N52 magnets.
 6. bigger pin to increase the repulsive force of the magnets.
+7. Added a 6X2 magnet BFP body that was requested. 
 
 If it is loose you can use a drop of glue to keep it on top. There is no need for the magnet to make contact with the wire.
 
