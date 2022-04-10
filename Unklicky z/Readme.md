@@ -7,3 +7,7 @@ Switch 50 probes
 
 Unklicky z 50 Probes 
 // probe accuracy results: maximum -0.069688, minimum -0.072188, range 0.002500, average -0.070969, median -0.070938, standard deviation 0.000542 
+
+Updates
+
+1. Lowered the throw distance by 1.5 mm.
