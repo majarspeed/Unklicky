@@ -1,2 +1,2 @@
 
-Something something square nut. Geno give me something to say.
+lets you use a m3x20mm screw and holds it nicely.
