@@ -14,6 +14,16 @@ Klicky is also based on [Euclid](https://www.euclidprobe.com/).
 Thanks go to JosAR again for all the hard work and testing, please support his project and all the hard work he has done and is continuing to do. 
 https://github.com/jlas1/Klicky-Probe
 
+Testing with the auto z
+While the switch offset can be changed by wire thickness on the wrap. 6mm seems to be a safe starting point for the the unklicky. And 3.5 seems to be a good starting point for the BFP. You can mesure from the body to the probe point to get the switch offset. And visit Protoloft and support him for all the work he has done on the auto z project. https://github.com/protoloft/klipper_z_calibration 
+
+
+Parts kits thanks to DFH
+
+[Buy full kit here](https://deepfriedhero.in/products/unklicky-full-kit-by-dustinspeed?_pos=1&_psq=unkl&_ss=e&_v=1.0&aff=8 "Full Unklicky Kit")
+
+[Buy sidegrade kit here](https://deepfriedhero.in/products/unklicky-sidegrade-kit-by-dustinspeed?_pos=2&_sid=d0a66cc6e&_ss=r&aff=8 "Sidegrade Unklicky Kit")
+
 # Unklicky Newest version 2
 New version of the 3x2 probe is now available. This includes some QOL improvements. But does not really improve on any performance in any significant way. 
 Added a screw mount on the rear so a magnet or screw can be used. May be useful if you have especially strong magnets.
@@ -57,11 +67,7 @@ Besides being one of the most precise switch's of the microswitch shootout (whic
 
 
 
-Parts kits thanks to DFH
 
-[Buy full kit here](https://deepfriedhero.in/products/unklicky-full-kit-by-dustinspeed?_pos=1&_psq=unkl&_ss=e&_v=1.0&aff=8 "Full Unklicky Kit")
-
-[Buy sidegrade kit here](https://deepfriedhero.in/products/unklicky-sidegrade-kit-by-dustinspeed?_pos=2&_sid=d0a66cc6e&_ss=r&aff=8 "Sidegrade Unklicky Kit")
 
 
 
