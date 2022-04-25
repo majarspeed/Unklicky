@@ -1,8 +1,12 @@
 Unklicky z V3 
+![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/z.PNG "z3")
+
+
 
 Moved the bottom magnet inside the body to allow it to be closer to provide more lift. 
 Changed the contact to not require a wire wrap. Now the heatset will contact to the contact screw directly. 
 Wire is securured under the screw now to make a cleaner method of securing. 
+There is a slot to stop the heatset you will feel it bump when it is deep enough.
 
 There has been a script created to test the noozle ooze that can be used for any probes and endstops.  But do want to thank Jkwang for a great new tool. You can grab it from his github at https://github.com/johnnykwwang/3dp_notes/tree/main/auto_z_accuracy_test. 
 
@@ -18,6 +22,8 @@ Unklicky z 50 Probes
 // probe accuracy results: maximum -4.658438, minimum -4.659688, range 0.001250, average -4.659031, median -4.659063, standard deviation 0.000406
 // probe accuracy results: maximum -4.638750, minimum -4.640000, range 0.001250, average -4.639250, median -4.639063, standard deviation 0.000468
 
-Updates
 
-1. Lowered the throw distance by 1.5 mm.
+![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/z_heatsetting.jpeg "z3")
+![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/z_tip.jpeg "z3")
+![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/zpin_ex.jpg "z3")
+![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/Heatset_locating.jpg "z3")
