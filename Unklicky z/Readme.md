@@ -1,7 +1,9 @@
-Unklicky z V3 
+# Unklicky z V3 
 ![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/z.PNG "z3")
 
+# V3 major change
 
+![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/Heatset_contact.png "z3")
 
 Moved the bottom magnet inside the body to allow it to be closer to provide more lift. 
 Changed the contact to not require a wire wrap. Now the heatset will contact to the contact screw directly. 
