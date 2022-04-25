@@ -15,7 +15,7 @@ Thanks go to JosAR again for all the hard work and testing, please support his p
 https://github.com/jlas1/Klicky-Probe
 
 Testing with the auto z
-While the switch offset can be changed by wire thickness on the wrap. 6mm seems to be a safe starting point for the the unklicky. And 3.5 seems to be a good starting point for the BFP. You can mesure from the body to the probe point to get the switch offset. And visit Protoloft and support him for all the work he has done on the auto z project. https://github.com/protoloft/klipper_z_calibration 
+While the switch offset can be changed by wire thickness on the wrap. 6mm seems to be a safe starting point for the the unklicky. And 3.2 seems to be a good starting point for the BFP. You can mesure from the body to the probe point to get the switch offset. And visit Protoloft and support him for all the work he has done on the auto z project. https://github.com/protoloft/klipper_z_calibration 
 
 
 Parts kits thanks to DFH
