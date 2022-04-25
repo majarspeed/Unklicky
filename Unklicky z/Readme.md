@@ -7,6 +7,7 @@ Moved the bottom magnet inside the body to allow it to be closer to provide more
 Changed the contact to not require a wire wrap. Now the heatset will contact to the contact screw directly. 
 Wire is securured under the screw now to make a cleaner method of securing. 
 There is a slot to stop the heatset you will feel it bump when it is deep enough.
+The new magnet locations have increased the spring to around a 245 grams of lifiting force. (this is using my finger and a scale take with a grain of salt) But this is about 150% increase from the v1.
 
 There has been a script created to test the noozle ooze that can be used for any probes and endstops.  But do want to thank Jkwang for a great new tool. You can grab it from his github at https://github.com/johnnykwwang/3dp_notes/tree/main/auto_z_accuracy_test. 
 
