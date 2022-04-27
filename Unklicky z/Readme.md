@@ -4,7 +4,7 @@
 # V3 major change
 
 Added a 5mm pin for using a 5mm steel pin. 
-Added a 4mm threaded pin for use with a 4 mm sexbolt. (I tested the thread but no the use. I don not have a sex bolt onhand) 
+Added a 4mm threaded pin for use with a 4 mm carriage bolt.
 Printed the one I tested at .15 layer height. should be fine at .2. 
 
 ![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/Heatset_contact.png "z3")
