@@ -1,7 +1,7 @@
 # Unklicky z V3 
 ![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/z.PNG "z3")
 
-# Updates and addtions 
+# Updates and additions 
 Added a 5mm pin for using a 5mm steel pin. 
 Added a 4mm threaded pin for use with a 4 mm carriage bolt or hexbolt. 
 Printed the one I tested at .15 layer height. should be fine at .2. 
