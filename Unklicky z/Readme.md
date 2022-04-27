@@ -2,9 +2,14 @@
 ![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/z.PNG "z3")
 
 # Updates and additions 
-Added a 5mm pin for using a 5mm steel pin. 
+Added a 5mm pin for using a 5mm steel pin.
+
 Added a 4mm threaded pin for use with a 4 mm carriage bolt or hexbolt. 
 Printed the one I tested at .15 layer height. should be fine at .2. 
+
+You can use a sex bolt with the unklicky z. you need a 4 mm threaded rod or cut the head off of a 4mm screw and use that as a post into the 4mm threaded pin. 
+
+I have added some generic pins. To the cad that are intended to be building platforms. If you have a good Idea for a pin let's see it @@ 
 
 
 # V3 major change
