@@ -1,12 +1,13 @@
 # Unklicky z V3 
 ![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/z.PNG "z3")
 
-# V3 major change
-
+# Updates and addtions 
 Added a 5mm pin for using a 5mm steel pin. 
 Added a 4mm threaded pin for use with a 4 mm carriage bolt or hexbolt. 
 Printed the one I tested at .15 layer height. should be fine at .2. 
 
+
+# V3 major change
 ![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/Heatset_contact.png "z3")
 
 Moved the bottom magnet inside the body to allow it to be closer to provide more lift. 
