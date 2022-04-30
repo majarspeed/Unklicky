@@ -40,4 +40,8 @@ This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testi
 
 ## Contact
 
-You can usually find me on the Voron Discord, so feel free to ping me using this link if you have any issues. [Help I broke my klicky](https://discord.com/channels/460117602945990666/969563854071799818). Discord name Dustinspeed#6423.
+You can usually find me on the Voron Discord, so feel free to ping me using this link if you have any issues. 
+
+[Help I broke my Unklicky](https://discord.com/channels/460117602945990666/969563854071799818). 
+
+Discord name Dustinspeed#6423.
