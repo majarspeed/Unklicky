@@ -40,13 +40,15 @@ This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testi
 
 
 5. Slot the other end of the wire for the pin through the body to the top of the body. Note: in the newer body this will be easier to see and slot. But it is very similar to threading a needle.  Cut and strip the wire on on top with the stripped end going under either magnet. 
-NOTE:In the image I am showing the path to thread the wire through the part.
+
+### NOTE: In the image I am showing the path to thread the wire through the part. 
 
 
 ![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/bottom_thread_hole.jpg "Instructions")
 
 6. Slot a new wire for the contact screw strip a small portion of wire. This can either be stuck into the hole and insert the wire or wrap the wire around the screw. On top strip the other side of wire and place under the other front magnet.
-NOTE:In the image I am showing the path to thread the wire through the part. 
+
+### NOTE: In the image I am showing the path to thread the wire through the part. 
 
 
 ![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/front_thread_hole.jpg "Instructions")
