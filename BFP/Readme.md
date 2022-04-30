@@ -1,70 +1,23 @@
-# BFP Unklicky
-
-This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testing. 
-![bfp](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFP.jpg "BFP")
-
-# What do I need?
-
-## Bom
-| Name | Pieces |
-| ------ | ------ |
-| 6x3MM Magnet | 5|
-|12 or 14 mm M3 screw| 1|
-|18 to 22 AWG wire| <100 mm|
-
-
-## Printed parts
-| Name | Pieces |
-| ------ | ------ |
-| BFP_Unklicky_v6.stlt | 1|
-|D_pin_v6.stl| 1|
-
 ## Build
+| Instruction | Image |
+| ------ | ------ |
+| 1. Ensure that the pin can slide within the body freely; any excess friction can affect probe accuracy. Gently sand any spots that don't slide well. Make sure that the screw in the pin slot can slide up and down correctly.| |
+| 2. Insert rear top magnet. | [<img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/top_mag.jpg" width="250"/>](https://github.com/majarspeed/Unklicky/raw/main/pictures/top_mag.jpg) |
+| **Note:** If using an existing dock, make sure the magnets are oriented to attract and not repel. For a new install, the pole needs to be the opposite of the front two that are installed later.| |
+| 3. Strip the wire and wrap it around the pin with the starting point being on the D-Cut side. Use a single twist and then cut off any extra wire as any binding will cause problems later.| [<img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/side%20wrap.jpg" width="250"/>](https://github.com/majarspeed/Unklicky/raw/main/pictures/side%20wrap.jpg)[<img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/top_wrap.jpg" width="250"/>](https://github.com/majarspeed/Unklicky/raw/main/pictures/top_wrap.jpg)|
+| **Note:** Multiple wraps can be used for thinner wires but take care to have it flat on the bottom of the pin so the magnet can seat correctly. | |
+|4. Place a magnet on top of the rear magnet installed in Step 1 and use it to insert the magnet into the pin. You may need to slide the pin sideways to retain the magnet when removing. |[<img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/mag_pin.jpg" width="250"/>](https://github.com/majarspeed/Unklicky/raw/main/pictures/mag_pin.jpg)|
+| **Note:** This magnet will be pushed and not pulled, so it isn't critical for it to be super secure and you may find the fit fairly loose. This is by design to avoid having the pin bind up in the body. | |
+|5. Thread the other end of the pin wire through the slot in the top of the body. Cut and strip the wire on top and insert the stripped end under either front magnet. | [<img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/bottom_thread_hole.jpg" width="250"/>](https://github.com/majarspeed/Unklicky/raw/main/pictures/bottom_thread_hole.jpg)|
+| **Note:** This will be easier to see and do in the newer revision of the body but it is very similar to threading a needle.| |
+|6. Using a short piece of wire, strip one side and insert it into the hole before installing the screw. On top, strip the other side of the wire and insert it under the opposite front magnet from Step 5. |[<img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/front_thread_hole.jpg" width="250"/>](https://github.com/majarspeed/Unklicky/raw/main/pictures/front_thread_hole.jpg)[<img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/top_wired.jpg" width="250"/>](https://github.com/majarspeed/Unklicky/raw/main/pictures/top_wired.jpg)|
+| **Note:** You can also wrap the wire around the screw before installing the screw.| |
+|7. Once the screw from Step 6 is installed all the way, ensure the pin is pushed in and aligned correctly. It should slide with very little resistance. |[<img src="https://github.com/majarspeed/Unklicky/raw/main/pictures/front_screw.jpg" width="250"/>](https://github.com/majarspeed/Unklicky/raw/main/pictures/front_screw.jpg)|
+|8. In Klipper, change both the z-height for the probe and the move height for QGL/Z-Tilt to 25mm. | |
+|9. While this guide will not go into Auto-Z, you can use the following settings as a starting point. The stock UnKlicky should be 6mm and BFP 3mm. This should set you a touch high and you can adjust down as needed. The main variable that can change based on your installation is the wire wrap height. PLEASE TEST! I do not want to see pictures of damaged PEI sheets.||
+|10. The rest of the build/install can proceed as with the normal Klicky. Glue can be used as needed but ensure that it doesn't interfere with electrical contact.| |
+| **Note:** Images may not represent the current parts as they were taken with test parts.| |
 
-1. Ensure the pin and body slide together very well. Sand or clean up any parts that do not slide well. And that a screw in the pin slot can slide up and down correctly.  
+## Contact
 
-2. Insert rear top magnet. Note: needs to be aligned to attract to dock magnet if existing mount is in place. Or if this is a new installation will need to be reversed alignment from the front 2 slots we will do later. 
-
-
- ![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/top_mag.jpg "Instructions")
-
-3. Strip and wrap the wire around the pin with the starting point being on the D-cut side of the pin. Multiple wraps around the pin can be used for thinner wires. But you want to be careful to have it flat on the bottom. And use a single twist and cut any extra off on the side as wire binding will cause the pin to not move smoothly. 
- 
-![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/side%20wrap.jpg "Instructions")
-
-![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/top_wrap.jpg "Instructions")
-
-4. Place a magnet on top of the installed rear magnet. And use that to insert the pin mag into the pin. This magnet will be pushed not pulled. So it is not critical to be super secure. For that reason the fit is fairly loose and you may need to slide it off the top. This is by design to prevent any swelling in the pin that can cause roughness in the pin sliding. 
-
-![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/mag_pin.jpg "Instructions")
-
-
-5. Slot the other end of the wire for the pin through the body to the top of the body. Note: in the newer body this will be easier to see and slot. But it is very similar to threading a needle.  Cut and strip the wire on on top with the stripped end going under either magnet. 
-
-![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/bottom_thread_hole.jpg "Instructions")
-
-6. Slot a new wire for the contact screw strip a small portion of wire. This can either be stuck into the hole and insert the wire or wrap the wire around the screw. On top strip the other side of wire and place under the other front magnet. 
-
-
-![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/front_thread_hole.jpg "Instructions")
-
-![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/top_wired.jpg "Instructions")
-
-8. Screw the contact screw into place. Ensure that the pin is pushed in and aligned correctly. And that the pin is sliding as expected. 
-
-![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/front_screw.jpg "Instructions")
-
-9. Change the z height for Probe and QGL/z-tilt to a move height of 25 mm. This should work for any of the unklicky probes. 
-10. While I am not going to go into auto z here. The unklicky currently can start with a switch offset of 6 mm and BFP 3 mm. These should set you a touch high and can be adjusted down. The main variability here is the wire wrap height. But this should be safe for almost anybody. PLEASE test I do not want to see pictures of damaged PEI sheets.
-
-
-The rest of the build is exactly the same as a normal klicky. Images are mixed as a I grabbed whatever test parts were on my desk to make the images. 
-Glue can be used as needed but please ensure it does not interfere with wire contact. 
-
-
-If you run into issues I am available on the voron discord most times. Feel free to ping me in this channel.  [Help I broke my klicky](https://discord.com/channels/460117602945990666/969563854071799818). Discord name Dustinspeed#6423. 
-
-Please feel free to reach out if you have any issues. 
-
-
-
+You can generally find me on the Voron Discord, so feel free to ping me using this link if you have any issues. [Help I broke my klicky](https://discord.com/channels/460117602945990666/969563854071799818). Discord name Dustinspeed#6423.
