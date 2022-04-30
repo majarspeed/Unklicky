@@ -54,7 +54,7 @@ This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testi
 
 ![Instructions](https://github.com/majarspeed/Unklicky/raw/main/pictures/front_screw.jpg "Instructions")
 
-9. Change the z height for Probe and QGL/z-tilt to a move height of 25 mm. This should work for any of the BFP. 
+9. Change the z height for Probe and QGL/z-tilt to a move height of 25 mm. This should work for any of the unklicky probes. 
 10. While I am not going to go into auto z here. The unklicky currently can start with a switch offset of 6 mm and BFP 3 mm. These should set you a touch high and can be adjusted down. The main variability here is the wire wrap height. But this should be safe for almost anybody. PLEASE test I do not want to see pictures of damaged PEI sheets.
 
 
