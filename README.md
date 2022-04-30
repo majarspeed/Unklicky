@@ -1,3 +1,13 @@
+# Thank you Guys 
+I love seeing the makes and all the questions and some awesome derivates are coming out of this project. 
+
+Keep your eyes peeled there is a awesome revision on the horizon from Josar
+
+And there is an amazing Euclind derivitive doen by Minisekt you can view [Unclid here](https://github.com/Minsekt/unclid).
+
+
+
+
 # Unklicky
 
 Drop in magnet based klicky probe In the orginal and now a 6x3 magnet variant called the BFP. 
