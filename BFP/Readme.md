@@ -15,7 +15,7 @@ This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testi
 ## Printed parts
 | Name | Pieces |
 | ------ | ------ |
-| BFP_Unklicky_v6.stlt | 1|
+| BFP_Unklicky_v6.stl | 1|
 |D_pin_v6.stl| 1|
 
 ## Build
