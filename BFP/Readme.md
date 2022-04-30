@@ -1,3 +1,23 @@
+# BFP Unklicky
+
+This is a 6x3 unklicky probe. Thanks go to JosAR for all the hard work and testing. 
+![bfp](https://github.com/majarspeed/Unklicky/raw/main/pictures/BFP.jpg "BFP")
+
+# What do I need?
+
+## Bom
+| Name | Pieces |
+| ------ | ------ |
+| 6x3MM Magnet | 5|
+|12 or 14 mm M3 screw| 1|
+|18 to 22 AWG wire| <100 mm|
+
+## Printed parts
+| Name | Pieces |
+| ------ | ------ |
+| BFP_Unklicky_v6.stlt | 1|
+|D_pin_v6.stl| 1|
+
 ## Build
 | Instruction | Image |
 | ------ | ------ |
