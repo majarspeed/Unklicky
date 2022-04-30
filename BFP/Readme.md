@@ -62,7 +62,7 @@ The rest of the build is exactly the same as a normal klicky. Images are mixed a
 Glue can be used as needed but please ensure it does not interfere with wire contact. 
 
 
-If you run into issues I am avaliabel ont the voron discord most times. Feel free to ping me in this channel.  [Help I broke my klicky](https://discord.com/channels/460117602945990666/969563854071799818). Discord name Dustinspeed#6423. 
+If you run into issues I am available on the voron discord most times. Feel free to ping me in this channel.  [Help I broke my klicky](https://discord.com/channels/460117602945990666/969563854071799818). Discord name Dustinspeed#6423. 
 
 Please feel free to reach out if you have any issues. 
 
