@@ -2,6 +2,10 @@
 ![z3](https://github.com/majarspeed/Unklicky/raw/main/pictures/z.PNG "z3")
 
 # Updates and additions 
+
+
+V4 body added addtional wire path. Increased the rear screw clearance. And made the locating tabs 6mm. 
+
 Added a 5mm pin for using a 5mm steel pin.
 
 Added a 4mm threaded pin for use with a 4 mm carriage bolt or hexbolt. 
