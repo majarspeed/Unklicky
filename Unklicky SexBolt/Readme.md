@@ -17,7 +17,7 @@ This is a 6x3 unklicky Z end stop .
 |M3 heatset inserts| 3|
 |M3 6 mm screws| 2|
 |M4 threaded rod 10mm| 1 can use a m4 screw with the head removed|
-|M5 bearing sleeve or 695zz bearing| 1|
+|M5 bearing sleeve or 695 flanged or unflanged / bearing| 1|
 |M5 sexbolt stud 12 mm for standard height 20mm for kinematic| 1| 
 
 
