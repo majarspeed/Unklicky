@@ -5,7 +5,7 @@ Keep your eyes peeled there is a awesome revision on the horizon from Josar
 
 And there is an amazing Euclind derivitive doen by Minisekt you can view [Unclid here](https://github.com/Minsekt/unclid).
 
-
+There is new versions of the unklicky that is avaliable for the voron Stealth burner only currently. JosAr has integrated the the unklicky into the NG or next generations of Klicky. Check it out here https://github.com/jlas1/Klicky-Probe/tree/KlickyNG/KlickyNG
 
 
 # Unklicky
