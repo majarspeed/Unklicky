@@ -7,6 +7,8 @@ And there is an amazing Euclind derivitive doen by Minisekt you can view [Unclid
 
 There is new versions of the unklicky that is avaliable for the voron Stealth burner only currently. JosAr has integrated the the unklicky into the NG or next generations of Klicky. Check it out here https://github.com/jlas1/Klicky-Probe/tree/KlickyNG/KlickyNG
 
+A great tutorial on Klicky/Unklicky was made by a member of the discord if you have any questions this should help for the setup. Thanks Logan BC 🇨🇦 VT.435 for creating such a great resouce. https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup
+
 
 # Unklicky
 
