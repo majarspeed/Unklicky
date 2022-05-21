@@ -17,7 +17,7 @@ This is a 6x3 unklicky Z end stop .
 |M3 heatset inserts| 3|
 |M3 6 mm screws| 2|
 |M4 threaded rod 10mm| 1 can use a m4 screw with the head removed|
-|Optional for no bearing version M5 threaded rod 10mm| 1 can use a m4 screw with the head removed|
+|Optional for no bearing version M5 threaded rod 10mm| 1 can use a m5 screw with the head removed|
 |M5 bearing sleeve or 695 flanged or unflanged / bearing| 1|
 |M5 sexbolt/Chicago screw 12 mm for standard height 20mm for kinematic| 1| 
 |Optional for no bearing version M6 sexbolt/Chicago screw 12 mm for standard height 20mm for kinematic| 1| 
@@ -37,7 +37,7 @@ This is a 6x3 unklicky Z end stop .
 | Unklicky_SBS_bottom.stl | 1|
 | Unklicky_SB_pin.stl| 1|
 
-## Printed parts For bearin sleeve
+## Printed parts bearing free version
 | Name | Pieces |
 | ------ | ------ |
 | Unklicky_SB_Body_6mm.stl | 1|
