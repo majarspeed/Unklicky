@@ -37,7 +37,7 @@ Parts kits thanks to DFH
 [Buy sidegrade kit here](https://deepfriedhero.in/products/unklicky-sidegrade-kit-by-dustinspeed?_pos=2&_sid=d0a66cc6e&_ss=r&aff=8 "Sidegrade Unklicky Kit")
 
 
-## Versions and diffrences 
+## Versions and differences 
 | Unklicky | useage |
 | ------ | ------ |
 | Unklicky |  The original. Made to retain the same shape and body as klicky. The only one to use 3x2 magnets in the pin. Uses wire wrapped pin method |
