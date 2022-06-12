@@ -42,11 +42,11 @@ Parts kits thanks to DFH
 | ------ | ------ |
 | Unklicky |  The original. Made to retain the same shape and body as klicky. The only one to use 3x2 magnets in the pin. Uses wire wrapped pin method |
 | Unklicky BFP | Larger body to allow the use of a 6 x 3 standard magnet. Uses the orginal wire wrapped pin method |
-| Unklicky BFP-HS | Even Larger body to allow the use of a 6 x 3 standard magnet and a heatset in the pin to allow a shorter pin throw. And more clearance for wires. does not increase accuracy but does make the build easier. |
+| Unklicky BFP-HS | Even Larger body to allow the use of a 6 x 3 standard magnet and a heatset in the pin to allow a shorter pin throw. And more clearance for wires. Does not increase accuracy but does make the build easier. |
 | Unklicky Z | First standard z endstop has multiple pin options. Uses the Heat set pin method and was intended to be modular and allow for customization of the pins |
 | Unklicky Sexbolt | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt and 695/f695 bearing. |
 | Unklicky Sexbolt-SBS (bearing sleeve) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt. Allows the reuse of bearing sleeve from other sexbolt mods. |
-| Unklicky Sexbolt Bearing free version | Sex bolt mod. Uses a single pin and 6mm OD and 5mm rod with  chicago screw or sexbolt.  |
+| Unklicky Sexbolt Bearing free version | Sex bolt mod. Uses a single pin and 6mm OD and 5mm rod with a chicago screw or sexbolt. |
 
 
 
