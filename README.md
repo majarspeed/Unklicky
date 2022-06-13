@@ -52,8 +52,6 @@ Parts kits thanks to DFH
 
 
 
-
-
 # Unklicky Newest version 2
 New version of the 3x2 probe is now available. This includes some QOL improvements. But does not really improve on any performance in any significant way. 
 Added a screw mount on the rear so a magnet or screw can be used. May be useful if you have especially strong magnets.
