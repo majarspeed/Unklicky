@@ -44,10 +44,10 @@ Parts kits thanks to DFH
 | [Unklicky BFP for v0/Tiny-M](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/Unklicky) | Larger body to allow the use of a 6 x 3 standard magnet, pivot arm version to reduce inaccessible bed space. Uses the original wire wrapped pin method |
 | [UnklickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/UnklickyNG) | Original Unklicky mod compatible with [KlickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes#klickyng) mounts. It uses 3x2 magnets in the pin. Uses wire wrapped pin method |
 | [UnklickyNG BFP](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/UnklickyNG) | Original Unklicky BFP mod compatible with [KlickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes#klickyng) mounts. Larger body to allow the use of a 6 x 3 standard magnet. Uses the original wire wrapped pin method |
-| [Unklicky Z](./Unklicky Endstops/BFP-HS) | First standard z endstop has multiple pin options. Uses the Heat set pin method and was intended to be modular and allow for customization of the pins |
-| [Unklicky Sexbolt](./Unklicky_Endstops/Unklicky SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt and 695/f695 bearing. |
-| [Unklicky Sexbolt-SBS (bearing sleeve)](./Unklicky_Endstops/Unklicky SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt. Allows the reuse of bearing sleeve from other sexbolt mods. |
-| [Unklicky Sexbolt Bearing free version](./Unklicky_Endstops/Unklicky SexBolt) | Sex bolt mod. Uses a single pin and 6mm OD and 5mm rod with a chicago screw or sexbolt. |
+| [Unklicky Z](./Unklicky_Endstops/Unklicky_z) | First standard z endstop has multiple pin options. Uses the Heat set pin method and was intended to be modular and allow for customization of the pins |
+| [Unklicky Sexbolt](./Unklicky_Endstops/Unklicky_SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt and 695/f695 bearing. |
+| [Unklicky Sexbolt-SBS (bearing sleeve)](./Unklicky_Endstops/Unklicky_SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt. Allows the reuse of bearing sleeve from other sexbolt mods. |
+| [Unklicky Sexbolt Bearing free version](./Unklicky_Endstops/Unklicky_SexBolt) | Sex bolt mod. Uses a single pin and 6mm OD and 5mm rod with a chicago screw or sexbolt. |
 | [Unclid](https://github.com/Minsekt/unclid) | Unclid Probe ([Euclid](https://www.euclidprobe.com/) probe replacement), uses two screws and the magnet to close the switch circuit |
 
 
