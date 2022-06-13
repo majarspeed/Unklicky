@@ -1,11 +1,9 @@
 # Thank you Guys 
 I love seeing the makes and all the questions and some awesome derivates are coming out of this project. 
 
-Keep your eyes peeled there is a awesome revision on the horizon from Josar
-
 And there is an amazing Euclid derivitive doen by Minisekt you can view [Unclid here](https://github.com/Minsekt/unclid).
 
-There is new versions of the unklicky that is avaliable for the voron Stealth burner only currently. JosAr has integrated the the unklicky into the NG or next generations of Klicky. Check it out here https://github.com/jlas1/Klicky-Probe/tree/main/Probes
+There are new versions of the unklicky for the KlickyNG, JosAr has integrated the unklicky concept into the NG or next generations of Klicky. Check it out here https://github.com/jlas1/Klicky-Probe/tree/main/Probes
 
 A great tutorial on Klicky/Unklicky was made by a member of the discord if you have any questions this should help for the setup. Thanks Logan BC 🇨🇦 VT.435 for creating such a great resouce. https://github.com/LoganFraser/VoronMods/tree/main/KlickySetup
 
@@ -40,16 +38,16 @@ Parts kits thanks to DFH
 ## Versions and differences 
 | Unklicky | usage |
 | ------ | ------ |
-| [Unklicky](./Unklicky%20Probes/Unklicky) | The original. Made to retain the same shape and body as klicky. It uses 3x2 magnets in the pin. Uses wire wrapped pin method |
-| [Unklicky BFP](./Unklicky Probes/BFP) | Larger body to allow the use of a 6 x 3 standard magnet. Uses the original wire wrapped pin method |
-| [Unklicky BFP-HS](./Unklicky Probes/BFP-HS) | Even Larger body to allow the use of a 6 x 3 standard magnet and a heatset in the pin to allow a shorter pin throw. And more clearance for wires. Does not increase accuracy but does make the build easier. |
+| [Unklicky](./Unklicky_Probes/Unklicky) | The original. Made to retain the same shape and body as klicky. It uses 3x2 magnets in the pin. Uses wire wrapped pin method |
+| [Unklicky BFP](./Unklicky_Probes/BFP) | Larger body to allow the use of a 6 x 3 standard magnet. Uses the original wire wrapped pin method |
+| [Unklicky BFP-HS](./Unklicky_Probes/BFP-HS) | Even Larger body to allow the use of a 6 x 3 standard magnet and a heatset in the pin to allow a shorter pin throw. And more clearance for wires. Does not increase accuracy but does make the build easier. |
 | [Unklicky BFP for v0/Tiny-M](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/Unklicky) | Larger body to allow the use of a 6 x 3 standard magnet, pivot arm version to reduce inaccessible bed space. Uses the original wire wrapped pin method |
 | [UnklickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/UnklickyNG) | Original Unklicky mod compatible with [KlickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes#klickyng) mounts. It uses 3x2 magnets in the pin. Uses wire wrapped pin method |
 | [UnklickyNG BFP](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/UnklickyNG) | Original Unklicky BFP mod compatible with [KlickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes#klickyng) mounts. Larger body to allow the use of a 6 x 3 standard magnet. Uses the original wire wrapped pin method |
 | [Unklicky Z](./Unklicky Endstops/BFP-HS) | First standard z endstop has multiple pin options. Uses the Heat set pin method and was intended to be modular and allow for customization of the pins |
-| [Unklicky Sexbolt](./Unklicky Endstops/Unklicky SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt and 695/f695 bearing. |
-| [Unklicky Sexbolt-SBS (bearing sleeve)](./Unklicky Endstops/Unklicky SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt. Allows the reuse of bearing sleeve from other sexbolt mods. |
-| [Unklicky Sexbolt Bearing free version](./Unklicky Endstops/Unklicky SexBolt) | Sex bolt mod. Uses a single pin and 6mm OD and 5mm rod with a chicago screw or sexbolt. |
+| [Unklicky Sexbolt](./Unklicky_Endstops/Unklicky SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt and 695/f695 bearing. |
+| [Unklicky Sexbolt-SBS (bearing sleeve)](./Unklicky_Endstops/Unklicky SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt. Allows the reuse of bearing sleeve from other sexbolt mods. |
+| [Unklicky Sexbolt Bearing free version](./Unklicky_Endstops/Unklicky SexBolt) | Sex bolt mod. Uses a single pin and 6mm OD and 5mm rod with a chicago screw or sexbolt. |
 | [Unclid](https://github.com/Minsekt/unclid) | Unclid Probe ([Euclid](https://www.euclidprobe.com/) probe replacement), uses two screws and the magnet to close the switch circuit |
 
 
