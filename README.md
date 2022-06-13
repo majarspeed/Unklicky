@@ -40,7 +40,7 @@ Parts kits thanks to DFH
 ## Versions and differences 
 | Unklicky | usage |
 | ------ | ------ |
-| [Unklicky](./Unklicky Probes/Unklicky) | The original. Made to retain the same shape and body as klicky. It uses 3x2 magnets in the pin. Uses wire wrapped pin method |
+| [Unklicky](./Unklicky%20Probes/Unklicky) | The original. Made to retain the same shape and body as klicky. It uses 3x2 magnets in the pin. Uses wire wrapped pin method |
 | [Unklicky BFP](./Unklicky Probes/BFP) | Larger body to allow the use of a 6 x 3 standard magnet. Uses the original wire wrapped pin method |
 | [Unklicky BFP-HS](./Unklicky Probes/BFP-HS) | Even Larger body to allow the use of a 6 x 3 standard magnet and a heatset in the pin to allow a shorter pin throw. And more clearance for wires. Does not increase accuracy but does make the build easier. |
 | [Unklicky BFP for v0/Tiny-M](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/Unklicky) | Larger body to allow the use of a 6 x 3 standard magnet, pivot arm version to reduce inaccessible bed space. Uses the original wire wrapped pin method |
