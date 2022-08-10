@@ -36,7 +36,7 @@ Parts kits thanks to DFH
 
 
 ## Versions and differences 
-| Unklicky | usage |
+| Unklicky Probes | usage |
 | ------ | ------ |
 | [Unklicky](./Unklicky_Probes/Unklicky) | The original. Made to retain the same shape and body as klicky. It uses 3x2 magnets in the pin. Uses wire wrapped pin method |
 | [Unklicky BFP](./Unklicky_Probes/BFP) | Larger body to allow the use of a 6 x 3 standard magnet. Uses the original wire wrapped pin method |
@@ -44,13 +44,18 @@ Parts kits thanks to DFH
 | [Unklicky BFP for v0/Tiny-M](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/Unklicky) | Larger body to allow the use of a 6 x 3 standard magnet, pivot arm version to reduce inaccessible bed space. Uses the original wire wrapped pin method |
 | [UnklickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/UnklickyNG) | Original Unklicky mod compatible with [KlickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes#klickyng) mounts. It uses 3x2 magnets in the pin. Uses wire wrapped pin method |
 | [UnklickyNG BFP](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/UnklickyNG) | Original Unklicky BFP mod compatible with [KlickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes#klickyng) mounts. Larger body to allow the use of a 6 x 3 standard magnet. Uses the original wire wrapped pin method |
-| [Unklicky Z](./Unklicky_Endstops/Unklicky_z) | First standard z endstop has multiple pin options. Uses the Heat set pin method and was intended to be modular and allow for customization of the pins |
-| [Unklicky Sexbolt](./Unklicky_Endstops/Unklicky_SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt and 695/f695 bearing. |
-| [Unklicky Sexbolt-SBS (bearing sleeve)](./Unklicky_Endstops/Unklicky_SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt. Allows the reuse of bearing sleeve from other sexbolt mods. |
-| [Unklicky Sexbolt Bearing free version](./Unklicky_Endstops/Unklicky_SexBolt) | Sex bolt mod. Uses a single pin and 6mm OD and 5mm rod with a chicago screw or sexbolt. |
 | [Unclid](https://github.com/Minsekt/unclid) | Unclid Probe ([Euclid](https://www.euclidprobe.com/) probe replacement), uses two screws and the magnet to close the switch circuit |
 
+| Unklicky Endstops                                            | usage                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Unklicky Z](./Unklicky_Endstops/Unklicky_z)                 | First standard z endstop has multiple pin options. Uses the Heat set pin method and was intended to be modular and allow for customization of the pins |
+| [Unklicky Sexbolt](./Unklicky_Endstops/Unklicky_SexBolt)     | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt and 695/f695 bearing. |
+| [Unklicky Sexbolt-SBS (bearing sleeve)](./Unklicky_Endstops/Unklicky_SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt. Allows the reuse of bearing sleeve from other sexbolt mods. |
+| [Unklicky Sexbolt Bearing free version](./Unklicky_Endstops/Unklicky_SexBolt) | Sex bolt mod. Uses a single pin and 6mm OD and 5mm rod with a chicago screw or sexbolt. |
 
+| Other Unklicky inspired designs                              | usage                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [RunoutUnklicky](https://github.com/waytotheweb/voron/tree/main/general/RunoutUnklicky) | The Runout UnKlicky Sensor is a filament runout sensor that can be used to pause a print if printing filament breaks, runs out or otherwise is no longer present in the sensor.The design uses magnets as the switch, making it easy and cheap to source BOM components. |
 
 # Unklicky Newest version 2
 New version of the 3x2 probe is now available. This includes some QOL improvements. But does not really improve on any performance in any significant way. 
