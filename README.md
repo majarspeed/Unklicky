@@ -45,6 +45,7 @@ Parts kits thanks to DFH
 | [UnklickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/UnklickyNG) | Original Unklicky mod compatible with [KlickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes#klickyng) mounts. It uses 3x2 magnets in the pin. Uses wire wrapped pin method |
 | [UnklickyNG BFP](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/UnklickyNG) | Original Unklicky BFP mod compatible with [KlickyNG](https://github.com/jlas1/Klicky-Probe/tree/main/Probes#klickyng) mounts. Larger body to allow the use of a 6 x 3 standard magnet. Uses the original wire wrapped pin method |
 | [Unclid](https://github.com/Minsekt/unclid) | Unclid Probe ([Euclid](https://www.euclidprobe.com/) probe replacement), uses two screws and the magnet to close the switch circuit |
+| [Sidewipe Unklicky](https://github.com/chestwood96/SlideSwipe/tree/master/Experimental/UnklickySlideSwipe(better%20name%20pending)) | Sidewipe Unklicky by chestwood96, This is a bit of a mixture of unklicky and mechabl in a SlideswipeProbe formfactor.  |
 
 | Unklicky Endstops                                            | usage                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
