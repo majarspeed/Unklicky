@@ -1,0 +1,67 @@
+# Unklicky TAP Slim
+
+This is a unklicky sensor for TAP. Thanks to the Voron team for this design and Badnoob for spearheading the effort and lead developer role.
+
+It's almost as precise as the optical sensor, it's main goal is to reduce the initial Voron hug (a lot of people start buying the same obscure part, leaving it out of stock). With that said i can see one using it as a primary sensor as it can achieve a range in probing better than 0.0025 with a standard deviation of 0.001.
+
+**A range of 0.001 is excellent and enough for our 3D printer needs.** don't chase unicorns.
+
+It's pretty easy to install, it does require a somewhat tuned printer.
+
+This version, due to size requirements (needs to fit between TAP and X cable chains), it need to replace TAP upper part, there's [another version](../UnklickyTAP_(requires_umbilical)) that does not requires this, but requires an umbilical setup.
+
+This is functionally  a drop in replacement/spare for the optical PCB for TAP, it uses it's own TAP upper part, but only requires 2 cables, a mcu GND (or V-) and the probe (should use a endstop) signal pin, it does not need a 5v connection.
+
+
+
+| ![Unklicky TAP](../Photos/Unklicky_Tap_slim.png) |
+| :----------------------------------------------: |
+
+# How does it work?
+
+The principle behind this sensor, is using the MGN12 steel carriage to make contact with two m2x10 self tapping screws, thereby closing the circuit between the mcu GND (or V-) and the probe (should use a endstop) signal pin.
+Two 6x3 magnets makes the pin attract the probe body.
+
+More instructions below.
+
+# What do I need?
+
+## Bom
+| Name | Pieces |
+| ------ | ------ |
+| 6x3mm Magnet | 2 |
+|M2x10 self tapping screw| 2 |
+|18 to 22 AWG wire| as required |
+
+
+
+## Printed parts
+
+| Name | Pieces |
+| ------ | ------ |
+| Unklicky_TAP_Body_slim.stl | 1|
+|Unklicky_TAP_pin_slim_10mm.stl| 1|
+
+The parts should be printed with standard Voron definitions (TBD), they are oriented ready to print.
+
+The TAP Body requires supports, but they are included in the model.
+
+## Build
+
+| Instruction | Image |
+| ------ | ------ |
+|1. Print the parts as they are oriented and remove the body support.| ![Instructions](../Photos/Unklicky_Tap_slim_SS.png) |
+|2. Insert the pin magnet, it should be insert all the way in. (image needs updating, principle is the same)| ![pin magnet](../Photos/Unklicky_1.jpg "Pin magnet") |
+| 3. Place the pin on the sensor body, with the wire holes facing the front.<br />The pin magnet opening is facing the back in the image<br />Attach the other magnet to the outside of the body, and make sure that you respect that orientation when it is inserted on the probe boby, both magnets should attract. (image needs updating, principle is the same) |![body magnet orientation](../Photos/Unklicky_2.jpg "body magnet orientation")|
+|4. respecting the polarity, insert the magnet in the sensor body, it should go all the way in, with a bit of force, then stay there. (the groove that holds the magnet was actually designed by Badnoob) (image needs updating, principle is the same)|![body magnet](../Photos/Unklicky_3.jpg "body magnet")|
+|5. Slot one of the wires trough the front holes, screw a m2x10 self tapping screw on the hole, making sure it is solidly installed.<br />Repeat this procedure for the other side of the pin. (image needs updating, principle is the same)| ![wire installation](../Photos/Unklicky_4.jpg "wire installation")<br />![wire installation](../Photos/Unklicky_5.jpg "wire installation") |
+|6. the sensor is now ready to attach to TAP as it's upper body instead of the Optical PCB sensor + TAP upper part. (image needs updating, principle is the same)| ![final look](../Photos/Unklicky_6.jpg "Final look") |
+
+The rest of the build is exactly the same as a normal [klicky](https://github.com/jlas1/Klicky-Probe "Klicky Probe"), more detailed installation instruction might appear here. 
+
+if you decide to use it, give me feedback, either here, or on Voron discord, my discord user is JosAr#0517, feel free to ping me in this channel  [Help I broke my klicky](https://discord.com/channels/460117602945990666/969563854071799818)
+
+Please feel free to reach out if you have any issues. 
+
+
+
