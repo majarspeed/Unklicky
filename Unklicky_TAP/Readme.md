@@ -14,6 +14,12 @@ It's pretty easy to install, it does require a somewhat tuned printer.
 # How does it work?
 
 The principle behind this sensor, is using the MGN12 steel carriage to make contact with two m2x10 self tapping screws, thereby closing the circuit between the mcu GND (or V-) and the probe (should use a endstop) signal pin.
+
+On the image bellow, you can see Unklicky TAP sensor touching the X axis MGN12 carriage.
+
+| ![Unklicky TAP](./Photos/UnklickySlim_inaction.jpg) |
+| --------------------------------------------------- |
+
 Two 6x3 magnets makes the pin attract the probe body.
 
 More instructions below.

@@ -20,6 +20,12 @@ This is almost a drop in replacement/spare for the optical PCB for TAP, it uses 
 # How does it work?
 
 The principle behind this sensor, is using the MGN12 steel carriage to make contact with two m2x10 self tapping screws, thereby closing the circuit between the mcu GND (or V-) and the probe (should use a endstop) signal pin.
+
+On the image bellow, you can see Unklicky TAP sensor touching the X axis MGN12 carriage.
+
+| ![Unklicky TAP](../Photos/UnklickySlim_inaction.jpg) |
+| ---------------------------------------------------- |
+
 Two 6x3 magnets makes the pin attract the probe body.
 
 More instructions below.
@@ -43,9 +49,20 @@ More instructions below.
 | Unklicky_TAP_Body.stl | 1|
 |Unklicky_TAP_pin_10mm.stl| 1|
 
-The parts should be printed with standard Voron definitions (TBD), they are oriented ready to print.
+### Printing instructions
+
+The parts should be printed with the definitions below, they are oriented ready to print:
+
+* initial layer height:0,24
+* layer height: 0.2mm
+* bottom/top/perimeters: 4
+* infill: more than 30%
+* infill type: Cubic
+* Thin walls: On
 
 The TAP Body requires supports, but they are included in the model.
+
+
 
 ## Build
 
@@ -53,13 +70,26 @@ The TAP Body requires supports, but they are included in the model.
 | ------ | ------ |
 |1. Print the parts as they are oriented and remove the body support.| ![Instructions](../Photos/Unklicky_Tap_SS.png) |
 |2. Insert the pin magnet, it should be insert all the way in| ![pin magnet](../Photos/Unklicky_1.jpg "Pin magnet") |
-| 3. Place the pin on the sensor body, with the wire holes facing the front.<br />Attach the other magnet to the outside of the body, and make sure that you respect that orientation when it is inserted on the probe boby, both magnets should attract. |![body magnet orientation](../Photos/Unklicky_2.jpg "body magnet orientation")|
+| 3. Place the pin on the sensor body, with the wire holes facing the front.<br />Attach the other magnet to the outside of the body, and make sure that you respect that orientation when it is inserted on the probe body, both magnets should attract. |![body magnet orientation](../Photos/Unklicky_2.jpg "body magnet orientation")|
 |4. respecting the polarity, insert the magnet in the sensor body, it should go all the way in, with a bit of force, then stay there. (the groove that holds the magnet was actually designed by Badnoob)|![body magnet](../Photos/Unklicky_3.jpg "body magnet")|
 |5. Slot one of the wires trough the front holes, screw a m2x10 self tapping screw on the hole, making sure it is solidly installed.<br />Repeat this procedure for the other side of the pin.| ![wire installation](../Photos/Unklicky_4.jpg "wire installation")<br />![wire installation](../Photos/Unklicky_5.jpg "wire installation") |
 |6. the sensor is now ready to attach to TAP upper body instead of the Optical PCB sensor.| ![final look](../Photos/Unklicky_6.jpg "Final look") |
 
-The rest of the build is exactly the same as a normal [klicky](https://github.com/jlas1/Klicky-Probe "Klicky Probe"), more detailed installation instruction might appear here. 
 
-if you decide to use it, give me feedback, either here, or on Voron discord, my discord user is JosAr#0517, feel free to ping me in this channel  [Help I broke my klicky](https://discord.com/channels/460117602945990666/969563854071799818)
+
+## Klipper configuration
+
+Below are the klipper specific unklicky TAP probe configuration, for the rest, please follow the TAP optical probe manual and procedures, they are the same.
+
+```jinja2
+[probe]
+pin: ^Pin [should enable pullups "^" and use a endstop pin for better effect]
+speed: 5
+sample_retract_dist: 1.0
+samples_tolerance: 0.05
+samples_tolerance_retries: 3
+```
+
+if you decide to use it, give me feedback, either here, or on Voron discord, my discord user is JosAr#0517, feel free to ping me in this channel  [Usermod probes help](https://discord.com/channels/460117602945990666/969563854071799818)
 
 Please feel free to reach out if you have any issues. 
