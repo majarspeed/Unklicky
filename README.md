@@ -34,8 +34,39 @@ Parts kits thanks to DFH
 
 [Buy sidegrade kit here](https://deepfriedhero.in/products/unklicky-sidegrade-kit-by-dustinspeed?_pos=2&_sid=d0a66cc6e&_ss=r&aff=8 "Sidegrade Unklicky Kit")
 
+# Unklicky TAP
+
+This is a unklicky sensor for TAP. Thanks to the Voron team for this design and Badnoob for spearheading the effort and lead developer role.
+
+It's almost as precise as the optical sensor, it's main goal is to reduce the initial Voron hug (a lot of people start buying the same obscure part, leaving it out of stock). With that said i can see one using it as a primary sensor as it can achieve a range in probing better than 0.0025 with a standard deviation of 0.001.
+
+**A range of 0.001 is excellent and enough for our 3D printer needs.** don't chase unicorns.
+
+It's pretty easy to install, it does require a somewhat tuned printer.
+
+
+
+| ![Unklicky TAP](./Unklicky_TAP/Photos/Unklicky_Tap_full.png) |
+| :----------------------------------------------------------: |
+
+# How does it work?
+
+The principle behind this sensor, is using the MGN12 steel carriage to make contact with two m2x10 self tapping screws, thereby closing the circuit between the mcu GND (or V-) and the probe (should use a endstop) signal pin.
+Two 6x3 magnets makes the pin attract the probe body.
+
+## More information
+
+More information [here](./Unklicky_TAP)
+
+
 
 ## Versions and differences 
+
+| Unklicky TAP                                                 | usage                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Unklicky TAP](./Unklicky_TAP/UnklickyTAP_(requires_umbilical)) | It's almost a drop in replacement/spare for the optical PCB for TAP, it uses the same footprint, is installed on the same TAP upper part, but only requires 2 cables, a mcu GND (or V-) and the probe (should use a endstop) signal pin, it does not need a 5v connection.<br />Requires Umbilical cables to the toolhead |
+| [Unklicky TAP slim](./Unklicky_TAP/UnklickyTAP_Slim_(used_with_chains)) | It's embedded in it's own TAP upper part (due to space constrains between TAP and the cable chains), but only requires 2 cables, a mcu GND (or V-) and the probe (should use a endstop) signal pin, it does not need a 5v or 24v connection. |
+
 | Unklicky Probes | usage |
 | ------ | ------ |
 | [Unklicky](./Unklicky_Probes/Unklicky) | The original. Made to retain the same shape and body as klicky. It uses 3x2 magnets in the pin. Uses wire wrapped pin method |
