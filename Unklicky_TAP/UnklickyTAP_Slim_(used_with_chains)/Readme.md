@@ -84,7 +84,13 @@ samples_tolerance: 0.05
 samples_tolerance_retries: 3
 ```
 
-if you decide to use it, give me feedback, either here, or on Voron discord, my discord user is JosAr#0517, feel free to ping me in this channel  [Usermod probes help](https://discord.com/channels/460117602945990666/969563854071799818)https://discord.com/channels/460117602945990666/969563854071799818)
+## Initial run
+
+After initial assembly, don't forget to check your Z probe offset, it will have changed.
+**You should also condition the probe with the Klipper command "probe_accuracy samples=1000"** somewhere on top of the bed, it helps getting better results faster.
+Speaking of faster, the best results for UnklickyTAP is between 5 and 10mm/s probe speed.
+
+if you decide to use it, give me feedback, either here, or on Voron discord, my discord user is JosAr#0517, feel free to ping me in this channel  [Usermod probes help](https://discord.com/channels/460117602945990666/969563854071799818)
 
 Please feel free to reach out if you have any issues. 
 
