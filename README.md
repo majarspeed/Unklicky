@@ -46,7 +46,7 @@ It's pretty easy to install, it does require a somewhat tuned printer.
 
 
 
-| ![Unklicky TAP](./Unklicky_TAP/Photos/Unklicky_Tap_full.png) |
+| ![Unklicky TAP](./Unklicky_TAP/Photos/Unklicky_Tap_slim.png) |
 | :----------------------------------------------------------: |
 
 # How does it work?
@@ -62,10 +62,10 @@ More information [here](./Unklicky_TAP)
 
 ## Versions and differences 
 
-| Unklicky TAP                                                 | usage                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Unklicky TAP](./Unklicky_TAP/UnklickyTAP_(requires_umbilical)) | It's almost a drop in replacement/spare for the optical PCB for TAP, it uses the same footprint, is installed on the same TAP upper part, but only requires 2 cables, a mcu GND (or V-) and the probe (should use a endstop) signal pin, it does not need a 5v connection.<br />Requires Umbilical cables to the toolhead |
-| [Unklicky TAP slim](./Unklicky_TAP/UnklickyTAP_Slim_(used_with_chains)) | It's embedded in it's own TAP upper part (due to space constrains between TAP and the cable chains), but only requires 2 cables, a mcu GND (or V-) and the probe (should use a endstop) signal pin, it does not need a 5v or 24v connection. |
+| Unklicky TAP                   | usage                                                        |
+| ------------------------------ | ------------------------------------------------------------ |
+| ~~Unklicky TAP~~               | ~~It's almost a drop in replacement/spare for the optical PCB for TAP, it uses the same footprint, is installed on the same TAP upper part, but only requires 2 cables, a mcu GND (or V-) and the probe (should use a endstop) signal pin, it does not need a 5v connection.<br />Requires Umbilical cables to the toolhead~~<br />Discontinued, the released TAP upper part is too large, screws don't touch on the MGN12 carriage |
+| [Unklicky TAP](./Unklicky_TAP) | It's embedded in it's own TAP upper part (due to space constrains between TAP and the cable chains), but only requires 2 cables, a mcu GND (or V-) and the probe (should use a endstop) signal pin, it does not need a 5v or 24v connection.<br />Previously called UnklickyTAP slim, renamed when the larger sibling was discontinued |
 
 | Unklicky Probes | usage |
 | ------ | ------ |
