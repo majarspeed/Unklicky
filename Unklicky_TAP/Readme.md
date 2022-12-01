@@ -44,8 +44,10 @@ More instructions below:
 
 | Name | Pieces |
 | ------ | ------ |
-| Unklicky_TAP_Body_slim.stl | 1|
-|Unklicky_TAP_pin_slim_10mm.stl| 1|
+| UnTAP_Body.stl | 1|
+|UnTAP_pin_10mm.stl| 1|
+
+There are more pins that may suit your printer better, see if any helps you on your issue (the 9mm pin for instance allow a 9mm screw to reach the carriage, a 10mm screw would go 1mm deeper into the MGN12 carriage.
 
 ### Printing instructions
 
