@@ -1,4 +1,4 @@
-# Unklicky TAP
+# Unklicky TAP (unTAP)
 
 This is a unklicky sensor for TAP. Thanks to the Voron team for this design and Badnoob for spearheading the effort and lead developer role.
 
