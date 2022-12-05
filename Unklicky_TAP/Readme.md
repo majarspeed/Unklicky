@@ -2,9 +2,9 @@
 
 This is a unklicky sensor for TAP. Thanks to the Voron team for this design and Badnoob for spearheading the effort and lead developer role.
 
-It's almost as precise as the optical sensor, it's main goal is to reduce the initial Voron hug (a lot of people start buying the same obscure part, leaving it out of stock). With that said i can see one using it as a primary sensor as it can achieve a range in probing better than 0.0025 with a standard deviation of 0.001.
+It's almost as precise as the optical sensor, it's main goal is to reduce the initial Voron hug (a lot of people start buying the same obscure part, leaving it out of stock). With that said i can see one using it as a primary sensor as it can achieve a range in probing better than 0.003125 with a standard deviation of 0.000841.
 
-**A range of 0.001 is excellent and enough for our 3D printer needs.** don't chase unicorns.
+**A range of 0.005 is excellent and enough for our 3D printer needs.** don't chase unicorns.
 
 It's pretty easy to install, it does require a somewhat tuned printer.
 
@@ -44,10 +44,14 @@ More instructions below:
 
 | Name | Pieces |
 | ------ | ------ |
-| UnTAP_Body.stl | 1|
-|UnTAP_pin_10mm.stl| 1|
+| UnTAP_Body_v2.stl | 1|
+|UnTAP_pins_v2| all |
 
 There are more pins that may suit your printer better, see if any helps you on your issue (the 9mm pin for instance allow a 9mm screw to reach the carriage, a 10mm screw would go 1mm deeper into the MGN12 carriage.
+
+The V2 version compared to the v1 is longer, so the screws are in a better location (some Carriages have a slot in the middle that can disturb the probing).
+
+I recommend to print all the pins, they are really fast to print and it's a lot easier to print them at once.
 
 ### Printing instructions
 
@@ -89,7 +93,7 @@ samples_tolerance_retries: 3
 ## Initial run
 
 After initial assembly, don't forget to check your Z probe offset, it will have changed.
-**You should also condition the probe with the Klipper command "probe_accuracy samples=1000"** somewhere on top of the bed, it helps getting better results faster.
+**You should also condition the probe with the Klipper command "probe_accuracy samples=5000"** somewhere on top of the bed, it helps getting better results faster.
 Speaking of faster, the best results for UnklickyTAP is between 5 and 10mm/s probe speed.
 
 if you decide to use it, give me feedback, either here, or on Voron discord, my discord user is JosAr#0517, feel free to ping me in this channel  [Usermod probes help](https://discord.com/channels/460117602945990666/969563854071799818)
