@@ -34,6 +34,7 @@ More instructions below:
 ## Bom
 | Name | Pieces |
 | ------ | ------ |
+| M3 Heatset insert | 4 |
 | 6x3mm Magnet | 2 |
 |M2x10 self tapping screw| 2 |
 |18 to 22 AWG wire| as required |
