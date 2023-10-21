@@ -84,7 +84,7 @@ More information [here](./Unklicky_TAP)
 | [Unklicky Sexbolt](./Unklicky_Endstops/Unklicky_SexBolt)     | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt and 695/f695 bearing. |
 | [Unklicky Sexbolt-SBS (bearing sleeve)](./Unklicky_Endstops/Unklicky_SexBolt) | Sex bolt mod. Uses a single pin and 5mm OD chicago screw or sexbolt. Allows the reuse of bearing sleeve from other sexbolt mods. |
 | [Unklicky Sexbolt Bearing free version](./Unklicky_Endstops/Unklicky_SexBolt) | Sex bolt mod. Uses a single pin and 6mm OD and 5mm rod with a chicago screw or sexbolt. |
-| [Parametric Sexbolt unklicky Z](https://github.com/PorcoMaster/SexPillar) | Parametric Sex bolt + Unklicky mod. |
+| [Parametric Sexbolt unklicky Z](https://github.com/PorcoMaster/SexPillar) | Parametric Sex bolt + Unklicky mod. (from PorcoMaster) |
 
 | Other Unklicky inspired designs                              | usage                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
