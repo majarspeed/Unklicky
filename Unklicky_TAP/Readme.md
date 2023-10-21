@@ -34,6 +34,7 @@ More instructions below:
 ## Bom
 | Name | Pieces |
 | ------ | ------ |
+| M3 Heatset insert | 4 |
 | 6x3mm Magnet | 2 |
 |M2x10 self tapping screw| 2 |
 |18 to 22 AWG wire| as required |
@@ -73,7 +74,7 @@ The TAP Body requires supports, but they are included in the model.
 |1. Print the parts as they are oriented and remove the body support.| ![Instructions](./Photos/Unklicky_Tap_slim_SS.png) |
 |2. Insert the pin magnet, it should be insert until the it can no longer move. A small part of the magnet will remain outside the slot.| ![pin magnet](./Photos/UnklickySlim_1.jpg "Pin magnet") |
 | 3. Rotate the pin and place it on the sensor body, with the magnet opening facing the back.<br />The pin magnet opening is facing the back in the image<br />Attach the other magnet to the outside of the body, and make sure that you respect that orientation when it is inserted on the probe body, both magnets should attract. |![body magnet orientation](./Photos/UnklickySlim_2.jpg "body magnet orientation")|
-|4. respecting the polarity, insert the magnet in the sensor body, it should go all the way in, with a bit of force, then stay there. (the groove that holds the magnet was actually designed by Badnoob)|![body magnet](./Photos/UnklickySlim_3.jpg "body magnet")|
+|4. respecting the polarity, insert the magnet in the sensor body, it should go all the way in, with a bit of force, then stay there. (the groove that holds the magnet was actually designed by Badnoob)<br />Verify that the pin moves freely and jumps back to its resting position reliably. If the pin sticks or jams, try lightly sanding the top and bottom layers.|![body magnet](./Photos/UnklickySlim_3.jpg "body magnet")|
 |5. Slot one of the wires trough the side holes, screw a m2x10 self tapping screw on the hole, making sure it is solidly installed.<br />Repeat this procedure for the other side of the pin.| ![wire installation](./Photos/UnklickySlim_4.jpg "wire installation")<br />![wire installation](./Photos/Unklicky_5.jpg "wire installation") |
 |6. the sensor is now ready to attach to TAP as it's upper body instead of the Optical PCB sensor + TAP upper part, you can use zip ties to secure both ends of the connectors, just leave room for the pin to move up and down.| ![final look](./Photos/UnklickySlim_6.jpg "Final look") |
 
